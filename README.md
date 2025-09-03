@@ -14,7 +14,7 @@ A simple RESTful API built with *Node.js* and *Express.js* to manage books in-me
 
 ---
 
-## Tech Stack mern
+## Tech Stack (Mern stack)
 
 - Node.js
 - Express.js
